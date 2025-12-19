@@ -13,6 +13,7 @@ This project focuses on building and evaluating a fraud detection system on **hi
   - `0` → Legitimate transaction  
   - `1` → Fraudulent transaction
 - Highly imbalanced dataset (fraud cases ≪ normal cases)
+- Dataset URL: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
@@ -71,7 +72,7 @@ This helped analyze trade-offs between detecting fraud correctly and avoiding fa
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - NumPy, Pandas
 - Scikit-learn
@@ -80,7 +81,7 @@ This helped analyze trade-offs between detecting fraud correctly and avoiding fa
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository  
 2. Open the Jupyter Notebook  
 3. Run all cells sequentially to reproduce results  
